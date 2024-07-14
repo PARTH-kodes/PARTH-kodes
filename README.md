@@ -18,6 +18,26 @@ I'm passionate about learning and growing my skills in software development, and
 
 ## Projects
 
+### Front End Projects
+- **Modern Login**: An interactive web design having:
+  - *Responsive Design*: Ensures compatibility with different screen sizes and devices.
+  - *Transitions*: Smooth transitions between sign-in and sign-up forms.
+  - *Hover Effects*: Interactive hover effects on buttons, input fields, and social media icons.
+  - *Social Media Integration*: Placeholder icons for social media login options.
+
+- **Flipping Login**: A self designed web page with:
+  - Responsive design
+  - Flip animation between login and registration forms
+  - Form validation for email and password
+  - Custom styles with Font Awesome icons
+
+- **Hand Gestures**: Simple and responsive childhood game
+  - Simple and intuitive user interface
+  - Responsive design for all screen sizes
+  - Real-time game play against the computer
+  - Play Again functionality to restart the game
+  - Attractive visuals and animations
+
 ### Java Projects
 - **ToDoList**: A comprehensive To-Do List application where you can:
   - Create tasks
